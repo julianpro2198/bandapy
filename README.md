@@ -6,7 +6,7 @@
 
 
 <h3> Diagrama de secuencia </h3>
-<img src="/Diagramas/secuencia.png"/>
+<img src="/Diagramas/secuenciafix.png"/>
 
 
 <h3> Patron usado </h3>
