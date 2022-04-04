@@ -4,3 +4,10 @@
 <h3> Diagrama de Clases </h3>
 <img src="/Diagramas/DiagramaClases.png"/>
 
+
+<h3> Diagrama de secuencia </h3>
+<img src="/Diagramas/secuencia.png"/>
+
+
+<h3> Patron usado </h3>
+
