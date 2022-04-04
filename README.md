@@ -10,4 +10,4 @@
 
 
 <h3> Patron usado </h3>
-
+Comando
